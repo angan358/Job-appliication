@@ -6,7 +6,7 @@
 }
 /*body*/
 body{
-    background-color: #ccc;
+    background-color: rgb(120, 116, 116);
 }
 /*main container*/
 .container{
@@ -20,8 +20,12 @@ body{
     background-color:white;
     margin:0 auto;
     margin-top: 50px;
+    margin-bottom: 50px;
     box-shadow: 4px 3px 5px rgba(1, 2, 1, 0.2);
     border-radius: 10px;
+}
+.apply-box h1{
+    font-family: 'Baloo Bhai 2', cursive;
 }
 .title-span{
     font-size: 20px;
@@ -39,6 +43,7 @@ body{
 label{
     font-size: 20px;
     margin-bottom: 5px;
+    font-family: 'Baloo Bhai 2', cursive;
 }
 
 input , 
